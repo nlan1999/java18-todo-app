@@ -1,0 +1,3 @@
+private int mul( ina, int b ) {
+	return a * b;
+}
